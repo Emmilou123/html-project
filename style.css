@@ -1,0 +1,8 @@
+/* my entire background color of my website */
+body {
+   background-color: rgb(254, 249, 217) ;
+}
+.welcome {
+    text-align: center;
+    font-family: serif;
+}
